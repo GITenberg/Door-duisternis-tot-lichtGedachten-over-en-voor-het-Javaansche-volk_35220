@@ -1,0 +1,33 @@
+_repo: Door-duisternis-tot-lichtGedachten-over-en-voor-het-Javaansche-volk_35220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kartini, Raden Adjeng
+    aliases:
+    - Hadiningrat, Djojo, Kanjeng Raden Ayu Adipati
+    - Djojoadiningrat, Kartini, Gusti Raden Ayu Adipati
+    birthdate: 1879
+    deathdate: 1904
+    gutenberg_agent_id: '37149'
+    url: http://www.gutenberg.org/2009/agents/37149
+    wikipedia: http://en.wikipedia.org/wiki/Kartini
+description: ''
+gutenberg_issued: '2011-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35220'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Feminists -- Indonesia -- Java -- Correspondence'
+- !lcc 'HQ'
+- !lcsh 'Kartini, Raden Adjeng, 1879-1904 -- Correspondence'
+- !lcsh 'Women -- Indonesia -- Java -- Social conditions'
+title: 'Door duisternis tot licht: Gedachten over en voor het Javaansche volk'
+url: http://www.gutenberg.org/ebooks/35220
