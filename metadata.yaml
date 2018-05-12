@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37149
     wikipedia: http://en.wikipedia.org/wiki/Kartini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35220#Door-duisternis-tot-lichtGedachten-over-en-voor-het-Javaansche-volk
 gutenberg_issued: '2011-02-08'
 gutenberg_type: Text
 identifiers:
